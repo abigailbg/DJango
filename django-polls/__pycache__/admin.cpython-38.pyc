@@ -1,0 +1,6 @@
+U
+    Äüå]R  ã                   @   sR   d dl mZ ddlmZmZ G dd„ dejƒZG dd„ dejƒZej	 
+ee¡ dS )	é    )Úadminé   )ÚChoiceÚQuestionc                   @   s   e Zd ZeZdZdS )ÚChoiceInlineé   N)Ú__name__Ú
+__module__Ú__qualname__r   ÚmodelÚextra© r   r   õA   C:\Users\Cecy RodrÃ­guez\Documents\JoDjango\mysite\polls\admin.pyr      s   r   c                   @   sB   e Zd ZdddgifddgdgdœfgZegZdZdgZdgZdS )	ÚQuestionAdminNÚfieldsÚquestion_textzDate informationÚpub_dateÚcollapse)r   Úclasses)r   r   Úwas_published_recently)	r   r	   r
+   Ú	fieldsetsr   ÚinlinesÚlist_displayÚlist_filterÚsearch_fieldsr   r   r   r   r      s   şr   N)Zdjango.contribr   Úmodelsr   r   ÚTabularInliner   Ú
+ModelAdminr   ÚsiteÚregisterr   r   r   r   Ú<module>   s   

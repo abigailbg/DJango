@@ -1,0 +1,9 @@
+U
+    qëå]Q  ã                   @   s.   d dl mZmZ d dlZG dd„ dejƒZdS )é    )Ú
+migrationsÚmodelsNc                   @   s¨   e Zd ZdZg Zejddejdddddfdej	dd	fd
+ej
+ddfgdejddejdddddfdej	dd	fdejddfdejejjjjddfgdgZdS )Ú	MigrationTÚQuestionÚidFÚID)Úauto_createdÚprimary_keyÚ	serializeÚverbose_nameÚquestion_textéÈ   )Ú
+max_lengthÚpub_datezdate published)r   )ÚnameÚfieldsÚChoiceÚchoice_textÚvotesr   )ÚdefaultÚquestionzpolls.Question)Ú	on_deleteÚtoN)Ú__name__Ú
+__module__Ú__qualname__ÚinitialÚdependenciesr   ÚCreateModelr   Ú	AutoFieldÚ	CharFieldÚDateTimeFieldÚIntegerFieldÚ
+ForeignKeyÚdjangoÚdbÚdeletionÚCASCADEÚ
+operations© r)   r)   õS   C:\Users\Cecy RodrÃ­guez\Documents\JoDjango\mysite\polls\migrations\0001_initial.pyr      s$   ışüş÷r   )Ú	django.dbr   r   Údjango.db.models.deletionr$   r   r)   r)   r)   r*   Ú<module>   s   

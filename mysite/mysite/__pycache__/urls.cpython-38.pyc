@@ -1,0 +1,20 @@
+U
+    ¡éå]5  ã                   @   s@   d Z ddlmZ ddlmZmZ ededƒƒedejjƒgZdS )ao  mysite URL Configuration
+
+The `urlpatterns` list routes URLs to views. For more information please see:
+    https://docs.djangoproject.com/en/3.0/topics/http/urls/
+Examples:
+Function views
+    1. Add an import:  from my_app import views
+    2. Add a URL to urlpatterns:  path('', views.home, name='home')
+Class-based views
+    1. Add an import:  from other_app.views import Home
+    2. Add a URL to urlpatterns:  path('', Home.as_view(), name='home')
+Including another URLconf
+    1. Import the include() function: from django.urls import include, path
+    2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
+é    )Úadmin)ÚincludeÚpathzpolls/z
+polls.urlszadmin/N)	Ú__doc__Zdjango.contribr   Údjango.urlsr   r   ÚsiteÚurlsÚurlpatterns© r
+   r
+   õA   C:\Users\Cecy RodrÃ­guez\Documents\JoDjango\mysite\mysite\urls.pyÚ<module>   s
+   þ

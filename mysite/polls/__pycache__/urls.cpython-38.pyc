@@ -1,0 +1,5 @@
+U
+    õóå]d  ã                   @   sh   d dl mZ ddlmZ dZedej ¡ ddedej ¡ d	ded
+ej ¡ ddedej	ddgZ
+dS )é    )Úpathé   )ÚviewsÚpollsÚ Úindex)Únamez	<int:pk>/Údetailz<int:pk>/results/Úresultsz<int:question_id>/vote/ÚvoteN)Údjango.urlsr   r   r   Úapp_nameZ	IndexViewÚas_viewÚ
+DetailViewZResultsViewr   Úurlpatterns© r   r   õ@   C:\Users\Cecy RodrÃ­guez\Documents\JoDjango\mysite\polls\urls.pyÚ<module>   s   ü

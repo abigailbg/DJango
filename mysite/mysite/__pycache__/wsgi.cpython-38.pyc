@@ -1,0 +1,12 @@
+U
+    Ñæå]•  ã                   @   s0   d Z ddlZddlmZ ej dd¡ eƒ ZdS )zÖ
+WSGI config for mysite project.
+
+It exposes the WSGI callable as a module-level variable named ``application``.
+
+For more information on this file, see
+https://docs.djangoproject.com/en/3.0/howto/deployment/wsgi/
+é    N)Úget_wsgi_applicationÚDJANGO_SETTINGS_MODULEzmysite.settings)Ú__doc__ÚosÚdjango.core.wsgir   ÚenvironÚ
+setdefaultÚapplication© r
+   r
+   õA   C:\Users\Cecy RodrÃ­guez\Documents\JoDjango\mysite\mysite\wsgi.pyÚ<module>   s   	
